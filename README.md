@@ -27,7 +27,8 @@ Why GitHub is Popular for Managing Versions of Code
    Name your repository and provide a description if desired. 
     Choose visibility (public or private) and click "Create repository."
 
-    Important decisions to make;
+    
+Important decisions to make include;
   • Visibility: Decide whether your repository will be public or private. Public repositories are accessible to everyone, while private repositories require explicit access permissions.
    •Initialization Options: Choose whether to initialize the repository with a README, .gitignore, and/or a license. Initializing with a README is helpful for starting with some basic information about the project. Adding a .gitignore helps in preventing unnecessary files from being tracked, and selecting a license clarifies the terms under which your code can be used.
    •Repository Name and Description: Select a clear and descriptive name for your repository and provide a concise description. This helps others understand the purpose of your project and makes it easier to find.
