@@ -68,6 +68,16 @@ Advantages of a public repository
  •Security risks
  •No control over forks
 
+ Advantages of private repository;
+ •Controlled Access:Provides control over who can access, view, and contribute to the repository. Ideal for proprietary or confidential projects.
+•Security:Reduced risk of exposing sensitive information or code to unauthorized individuals. Better suited for projects that require privacy and security.
+•Selective Collaboration:Allows for focused collaboration with specific individuals or teams without public scrutiny, making it easier to manage and review contributions.
+
+Disadvantages;
+•Limited exposure 
+•High cost
+•Less community engagement 
+
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
 
