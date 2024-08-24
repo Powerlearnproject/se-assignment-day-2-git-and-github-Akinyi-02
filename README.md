@@ -14,7 +14,7 @@ Why GitHub is Popular for Managing Versions of Code
  • Collaboration and Code Review:GitHub provides features for code review, issue tracking, and discussion, making it easier for teams to collaborate and ensure code quality.
  • Documentation and Community:GitHub supports project documentation via README files and wikis. It also hosts a vast community of developers and open-source projects, facilitating learning and collaboration.
 
-    How Version Control Helps in Maintaining Project Integrity
+ How version control helps in maintaining project integrity 
 •Change Tracking:Version control systems maintain a detailed history of changes, making it easier to understand how the project has evolved and to identify when and where issues were introduced.
 •Backup and Recovery:regular commits act as backups, enabling you to recover previous versions of the project if recent changes cause problems.
 •Error Isolation:By allowing you to revert to previous versions, version control helps isolate and fix errors introduced by recent changes without affecting the entire project
